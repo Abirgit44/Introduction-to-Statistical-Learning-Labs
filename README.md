@@ -3,7 +3,7 @@
 ## Introduction to Statistical Learning Labs (Chapter 2 to 10) - R Notebooks
 
 <a href="https://www.statlearning.com/">
-  <img src="https://images.squarespace-cdn.com/content/v1/5ff2adbe3fe4fe33db902812/1611294680091-25SIDM9AHA8ECIFFST23/Screen+Shot+2021-01-21+at+11.02.06+AM.png?format=750w" alt="Intro to Statistical Learning" width="150" height="200">
+  <img src="https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4614-7138-7?as=webp" width="150" height="200">
 </a>
 
 
